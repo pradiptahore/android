@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PUA</string>
+    <string name="prompt">Choose a District</string>
+    <string-array name="Block_array">
+        <item>Bankura</item>
+
+
+    </string-array>
+    <string name="app_name1">ComboBox</string>
+    <string name="prompt1">Choose a Block</string>
+    <string-array name="hi_array">
+        <item>--NONE--</item>
+        <item>TALDANGRA</item>
+        <item>ONDA</item>
+        <item>SALTORA</item>
+        <item>MEJHIA</item>
+        <item>SARENGA</item>
+        <item>BARJORA</item>
+        <item>CHHATNA</item>
+        <item>RANIBUDH</item>
+        <item>HIRABANDH</item>
+        <item>BANKURA1</item>
+        <item>KHATRA</item>
+        <item>GANGAJALGHATI</item>
+        <item>INDPUR</item>
+        <item>RAIPUR</item>
+        <item>SIMLAPAL</item>
+        <item>BANKURA2</item>
+    </string-array>
+</resources>
